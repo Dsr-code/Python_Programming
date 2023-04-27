@@ -19,4 +19,4 @@ print(f"One dollar is {rupee: .2f} rupees")     # accepts two decimal value as :
 
 # to view curly braces in fstrings we use another pair of curly braces i,e,
 
-print(f"We use fstrings like this : My name is {{name}} and I am from {{place}}")
+print(f"We use fstrings like this : f\"My name is {{name}} and I am from {{place}}\"")

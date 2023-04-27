@@ -23,7 +23,7 @@ for i in range(len(questions)):
     # collection.append(prize)
     print(questions[i])
     a=input("")
-    if a == answers[i]:
+    if a.lower() == answers[i]:
         print("congratulations \n")
         collection=collection+(i+1)
         sum=collection*1000
