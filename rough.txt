@@ -1,0 +1,1 @@
+Hey this is a dummy text for the practice of file io write mode
